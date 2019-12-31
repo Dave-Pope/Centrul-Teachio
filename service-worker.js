@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Centrul-Teachio/precache-manifest.8032ccdeff56e709244efb4fadbba9b0.js"
+  "/Centrul-Teachio/precache-manifest.c8302c089c12aaa39568168d8cb4ccb5.js"
 );
 
 self.addEventListener('message', (event) => {

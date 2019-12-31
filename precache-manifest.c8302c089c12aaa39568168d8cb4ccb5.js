@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b043560519814731e3ff10429238ba8",
+    "revision": "bcf420eae7225fd34df74920434e9bc5",
     "url": "/Centrul-Teachio/index.html"
   },
   {
-    "revision": "9bd068d0b1aecc6ea542",
-    "url": "/Centrul-Teachio/static/css/main.8aa14b78.chunk.css"
+    "revision": "7eab0bbf0fb1da2ed1fe",
+    "url": "/Centrul-Teachio/static/css/main.c1872ebd.chunk.css"
   },
   {
     "revision": "65a6e309c4fee7d952b9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Centrul-Teachio/static/js/2.174b4bb7.chunk.js.LICENSE"
   },
   {
-    "revision": "9bd068d0b1aecc6ea542",
-    "url": "/Centrul-Teachio/static/js/main.65cb9cbc.chunk.js"
+    "revision": "7eab0bbf0fb1da2ed1fe",
+    "url": "/Centrul-Teachio/static/js/main.bf91f45e.chunk.js"
   },
   {
     "revision": "e03183e4a0bc239b455e",
