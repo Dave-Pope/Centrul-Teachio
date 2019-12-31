@@ -1,0 +1,29 @@
+@import '../../style/Mixins';
+
+.Navbar {
+  @include flexContent(space-between, row);
+
+  padding: 1em 2em 1em 2em;
+  background: #000;
+
+  h1 {
+    color: #fff;
+    font-size: 25px;
+    font-family: Nunito-Bold;
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      display: inline-block;
+      margin: 0 2.5em 0 2.5em;
+
+      a {
+        color: #fff;
+        font-family: Nunito-Bold;
+        text-decoration: none;
+      }
+    }
+  }
+}

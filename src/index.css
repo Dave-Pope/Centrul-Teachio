@@ -1,3 +1,29 @@
+@font-face {
+  font-family: Nunito;
+  src: url('./style/fonts/Nunito-Regular.ttf');
+}
+
+@font-face {
+  font-family: Nunito-Thin;
+  src: url('./style/fonts/Nunito-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: Nunito-Light;
+  src: url('./style/fonts/Nunito-Light.ttf');
+}
+
+@font-face {
+  font-family: Nunito-Bold;
+  src: url('./style/fonts/Nunito-Bold.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
