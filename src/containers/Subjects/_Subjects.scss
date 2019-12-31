@@ -1,0 +1,29 @@
+@import '../../style/Mixins';
+
+.Subjects {
+  @include flexContent(space-between, row);
+
+  padding: 1em;
+  background: #16ff8f;
+
+  .sub {
+    padding: 1em;
+    text-align: center;
+    
+    h3 a {
+      color: #fff;
+      font-family: Nunito;
+      text-decoration: none;
+      text-shadow: 1px 1px 3px rgb(63, 63, 63);
+    }
+
+    p {
+      padding: 2em 5em 2em 5em;
+      color: #fff;
+      font-size: 18px;
+      font-family: Nunito;
+      text-align: center;
+      text-shadow: 1px 1px 3px rgb(63, 63, 63);
+    }
+  }
+}
