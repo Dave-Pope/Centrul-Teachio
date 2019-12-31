@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Centrul-Teachio/static/css/main.8aa14b78.chunk.css",
+    "main.js": "/Centrul-Teachio/static/js/main.65cb9cbc.chunk.js",
+    "main.js.map": "/Centrul-Teachio/static/js/main.65cb9cbc.chunk.js.map",
+    "runtime-main.js": "/Centrul-Teachio/static/js/runtime-main.bb7599e8.js",
+    "runtime-main.js.map": "/Centrul-Teachio/static/js/runtime-main.bb7599e8.js.map",
+    "static/js/2.174b4bb7.chunk.js": "/Centrul-Teachio/static/js/2.174b4bb7.chunk.js",
+    "static/js/2.174b4bb7.chunk.js.map": "/Centrul-Teachio/static/js/2.174b4bb7.chunk.js.map",
+    "index.html": "/Centrul-Teachio/index.html",
+    "precache-manifest.8032ccdeff56e709244efb4fadbba9b0.js": "/Centrul-Teachio/precache-manifest.8032ccdeff56e709244efb4fadbba9b0.js",
+    "service-worker.js": "/Centrul-Teachio/service-worker.js",
+    "static/css/main.8aa14b78.chunk.css.map": "/Centrul-Teachio/static/css/main.8aa14b78.chunk.css.map",
+    "static/js/2.174b4bb7.chunk.js.LICENSE": "/Centrul-Teachio/static/js/2.174b4bb7.chunk.js.LICENSE",
+    "static/media/index.css": "/Centrul-Teachio/static/media/Nunito-Regular.d2e691bc.ttf",
+    "static/media/undraw_book_lover_mkck.png": "/Centrul-Teachio/static/media/undraw_book_lover_mkck.47affff6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7599e8.js",
+    "static/js/2.174b4bb7.chunk.js",
+    "static/css/main.8aa14b78.chunk.css",
+    "static/js/main.65cb9cbc.chunk.js"
+  ]
+}
